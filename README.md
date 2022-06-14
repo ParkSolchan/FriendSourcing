@@ -15,30 +15,35 @@
 ---
 + Spring Tool Suite 4.10.0 , Tomcat 9.0 버전으로 작성 했습니다.
 + CMD창에서 FS / 1234계정을 생성하고 DBA에 권한을 준 다음, SQL파일을 임포트
-+ C\PROGRAM FILES\ JAVA \ JRE1.8.0_311\LIB\SECURITY\JAVA.SECURITY 파일에서 TLSv1, TLSv1.1 삭제
-+ SERVER.XML에서 리소스 입력 (PPT 참고)
-+ MAIN.JSP파일을 통해서 메인페이지에서 실행 
++ Alt+Shift+X -> R 버튼을 이용해서 실행 or 컨트롤러에서 실행후 url에 /main 추가  
 
 ### 개발기간
 ---
-+ 2022년 4월 22일 ~ 2022년 5월 6일
++ 2022년 5월 24일 ~ 2022년 6월 14일 (3주, 21일)
 
 ### 기술스택
 ---
 + Front
-  + CSS
-  + HTML
+  + CSS3
+  + HTML5
   + JAVA SCRIPT
   + JQUERY
   + BOOTSTRAP
 + Back
-  + JAVA
+  + Spring FrameWork
+  + Ajax
+  + Mybatis
   + JSP
+  + Java
   + ORACLE DB
 + ETC
   + GIT HUB
+  + Slack
   + TOMCAT
-  + NAVER MAIL
+  + NAVER MAIL API
+  + i`mport API
+  + Kakao Maps API
+  + Daum Maps API
  
 ### 기획 및 설계
 ---
