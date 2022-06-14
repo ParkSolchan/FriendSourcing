@@ -49,7 +49,6 @@
 ---
 + 프로젝트 기획, 개발 환경 구축
 + 데이터 베이스 설계도 ![설계도](https://github.com/ParkSolchan/FriendSourcing/blob/main/FS ERD.jpg)
-+ 
 + 이메일 시스템 구현
 + Kakao Maps API 이용해서 지도, 클러스터, 마커바꾸기 구현
 + 이미지 다중 업로드, 썸네일, 중간 수정 삭제, 이미지 슬라이드 구현 
