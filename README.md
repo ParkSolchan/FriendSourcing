@@ -14,6 +14,7 @@
 ### 적용방법
 ---
 + Spring Tool Suite 4.10.0 , Tomcat 9.0 버전으로 작성 했습니다.
++ c: 폴더에 upload/temp폴더 
 + CMD창에서 FS / 1234계정을 생성하고 DBA에 권한을 준 다음, SQL파일을 임포트
 + Alt+Shift+X -> R 버튼을 이용해서 실행 or 컨트롤러에서 실행후 url에 /main 추가  
 
